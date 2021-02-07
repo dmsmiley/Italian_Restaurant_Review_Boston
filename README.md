@@ -39,6 +39,13 @@ ___
 - Folium to visualize the maps <code><img height="20" src="https://github.com/dmsmiley/dmsmiley/blob/main/assets/folium.jpeg"></code>
 
 ___
+### How It Works
+- Download the file "Capstone_Project_Italian_Restaurants_in_Boston.ipynb"
+- Locate the third and fourth Python cells.
+- Aquire developer API access from <a href="https://foursquare.com/">Foursquare</a>
+- Import your unique Client ID and Client Secret, as well as the current Foursquare API Version
+- Run cells
+___
 ### Samples
 <code><img src="Boston_Bubble_Reviews.png"></code>
 <code><img src="Choropleth_Reviews.png"></code>
