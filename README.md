@@ -47,7 +47,10 @@ ___
 - Run cells
 ___
 ### Samples
+Interactive icons showing average reviews of each neighborhood.
 <code><img src="Boston_Bubble_Reviews.png"></code>
+
+Choropleth map showing average reviews by neighborhood.
 <code><img src="Choropleth_Reviews.png"></code>
 
 ___
