@@ -40,10 +40,10 @@ ___
 
 ___
 ### How It Works
-- Download the file "Capstone_Project_Italian_Restaurants_in_Boston.ipynb"
+- Download <a href="https://github.com/dmsmiley/Italian_Restaurant_Review_Boston/blob/main/Capstone_Project_Italian_Restaurants_in_Boston.ipynb">"Capstone_Project_Italian_Restaurants_in_Boston.ipynb"</a>
 - Locate the third and fourth Python cells.
 - Aquire developer API access from <a href="https://foursquare.com/">Foursquare</a>
-- Import your unique Client ID and Client Secret, as well as the current Foursquare API Version
+- Import into both cells your unique Client ID and Client Secret, as well as the current Foursquare API Version
 - Run cells
 ___
 ### Samples
