@@ -31,7 +31,7 @@ ___
 > "Life is too short, and I'm Italian. I'd much rather eat pasta and drink wine than be a size 0." - Sophia Bush
 
 ___
-### Import Libraries for Analysis
+### Libraries
 - Pandas and Numpy for handling the data <code><img height="20" src="https://github.com/dmsmiley/dmsmiley/blob/main/assets/python.png"></code>
 <code><img height="20" src="https://github.com/dmsmiley/dmsmiley/blob/main/assets/numpy.png"></code>
 - Request for using FourSquare API <code><img height="20" src="https://github.com/dmsmiley/dmsmiley/blob/main/assets/foursquare.webp"></code>
@@ -39,7 +39,7 @@ ___
 - Folium to visualize the maps <code><img height="20" src="https://github.com/dmsmiley/dmsmiley/blob/main/assets/folium.jpeg"></code>
 
 ___
-### Samples from the Jupyter Notebook
+### Samples
 <code><img src="Boston_Bubble_Reviews.png"></code>
 <code><img src="Choropleth_Reviews.png"></code>
 
