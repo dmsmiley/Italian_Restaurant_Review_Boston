@@ -1,6 +1,6 @@
 # Italian Restaurant Reviews in Boston
 
-This project will seek to list and visualize the amazing Italian restaurants in the city of Boston.
+This project will list and visualize the amazing Italian restaurants in the city of Boston.
 
 ![Antico Forno](aubrey-odom-ngIvPcopNpE-unsplash.jpg)
 
