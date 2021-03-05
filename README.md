@@ -40,10 +40,11 @@ ___
 
 ___
 ### How It Works
-- Download <a href="https://github.com/dmsmiley/Italian_Restaurant_Review_Boston/blob/main/Capstone_Project_Italian_Restaurants_in_Boston.ipynb">"Capstone_Project_Italian_Restaurants_in_Boston.ipynb"</a>
-- Locate the third and fourth Python cells.
+- Download <a href="https://github.com/dmsmiley/Italian_Restaurant_Review_Boston/blob/main/Capstone_Project_Italian_Restaurants_in_Boston.ipynb">"Capstone_Project_Italian_Restaurants_in_Boston.ipynb"</a> and <a href="https://github.com/dmsmiley/Italian_Restaurant_Review_Boston/blob/main/Boston_Neighborhoods.csv">Boston_Neighborhoods.csv</a>
+- Locate the third, fourth, and fifth Python cells.
 - Aquire developer API access from <a href="https://foursquare.com/">Foursquare</a>
-- Import into both cells your unique Client ID and Client Secret, as well as the current Foursquare API Version
+- Import into cells three and four your unique Client ID and Client Secret, as well as the current Foursquare API Version
+- In cell five, replace "Boston_Neighborhoods.csv" with path to your downloaded csv file.
 - Run cells
 ___
 ### Samples
