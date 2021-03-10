@@ -66,7 +66,7 @@ ___
 ### What's Next?
 <span> <a href="https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&sxsrf=ALeKk01eJdrHd1alDYkcWsl1cBJB9BF9qg:1612661339652&q=italian+restaurants+boston&rflfq=1&num=10&sa=X&ved=2ahUKEwilv6vSz9buAhUYHM0KHSBGCoAQjGp6BAgBEGQ&biw=942&bih=848#rlfi=hd:;si:;mv:[[42.39251867875698,-71.02605035295208],[42.30320452859675,-71.1158272414418],null,[42.34787746592759,-71.07093879719696],13]">Plan a route</a> and hit up all the Italian restaurants in Boston </span>
   
-<span> Read about the history of <a href="https://en.wikipedia.org/wiki/History_of_Italian_Americans_in_Boston">Italians in Boston</a></span>
+<span> Read about the history of <a href="https://en.wikipedia.org/wiki/History_of_Italian_Americans_in_Boston">Italian Americans in Boston</a></span>
 
 ___
 ![Boston Streets](michael-browning-ZLN2WOVpjCo-unsplash.jpg)
